@@ -1,0 +1,15 @@
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.AssemblyInfoInputs.cache
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.AssemblyInfo.cs
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.csproj.CoreCompileInputs.cache
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.sourcelink.json
+/workspaces/kristine/CsharpTask/bin/Debug/net8.0/CsharpTask
+/workspaces/kristine/CsharpTask/bin/Debug/net8.0/CsharpTask.deps.json
+/workspaces/kristine/CsharpTask/bin/Debug/net8.0/CsharpTask.runtimeconfig.json
+/workspaces/kristine/CsharpTask/bin/Debug/net8.0/CsharpTask.dll
+/workspaces/kristine/CsharpTask/bin/Debug/net8.0/CsharpTask.pdb
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.dll
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/refint/CsharpTask.dll
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.pdb
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/CsharpTask.genruntimeconfig.cache
+/workspaces/kristine/CsharpTask/obj/Debug/net8.0/ref/CsharpTask.dll
